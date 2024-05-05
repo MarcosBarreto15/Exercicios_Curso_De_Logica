@@ -24,10 +24,4 @@ inicio
         escreval ("X2 = ", x2:2:4)
     fimse
  
-
- 
-
-
-
-
 fimalgoritmo
