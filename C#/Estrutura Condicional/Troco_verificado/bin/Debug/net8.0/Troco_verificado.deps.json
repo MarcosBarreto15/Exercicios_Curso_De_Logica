@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Troco_verificado/1.0.0": {
+        "runtime": {
+          "Troco_verificado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Troco_verificado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

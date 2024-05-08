@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Multiplos\bin\Debug\net8.0\Multiplos.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Multiplos\bin\Debug\net8.0\Multiplos.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Multiplos\bin\Debug\net8.0\Multiplos.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Multiplos\bin\Debug\net8.0\Multiplos.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Multiplos\bin\Debug\net8.0\Multiplos.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Multiplos\obj\Debug\net8.0\Multiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Multiplos\obj\Debug\net8.0\Multiplos.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Multiplos\obj\Debug\net8.0\Multiplos.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Multiplos\obj\Debug\net8.0\Multiplos.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Multiplos\obj\Debug\net8.0\Multiplos.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Multiplos\obj\Debug\net8.0\Multiplos.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Multiplos\obj\Debug\net8.0\refint\Multiplos.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Multiplos\obj\Debug\net8.0\Multiplos.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Multiplos\obj\Debug\net8.0\Multiplos.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Multiplos\obj\Debug\net8.0\ref\Multiplos.dll

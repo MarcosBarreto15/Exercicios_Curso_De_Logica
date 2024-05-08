@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Operadora\bin\Debug\net8.0\Operadora.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Operadora\bin\Debug\net8.0\Operadora.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Operadora\bin\Debug\net8.0\Operadora.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Operadora\bin\Debug\net8.0\Operadora.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Operadora\bin\Debug\net8.0\Operadora.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Operadora\obj\Debug\net8.0\Operadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Operadora\obj\Debug\net8.0\Operadora.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Operadora\obj\Debug\net8.0\Operadora.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Operadora\obj\Debug\net8.0\Operadora.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Operadora\obj\Debug\net8.0\Operadora.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Operadora\obj\Debug\net8.0\Operadora.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Operadora\obj\Debug\net8.0\refint\Operadora.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Operadora\obj\Debug\net8.0\Operadora.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Operadora\obj\Debug\net8.0\Operadora.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Operadora\obj\Debug\net8.0\ref\Operadora.dll

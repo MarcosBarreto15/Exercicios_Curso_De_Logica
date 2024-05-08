@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Baskara\bin\Debug\net8.0\Baskara.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Baskara\bin\Debug\net8.0\Baskara.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Baskara\bin\Debug\net8.0\Baskara.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Baskara\bin\Debug\net8.0\Baskara.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Baskara\bin\Debug\net8.0\Baskara.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Baskara\obj\Debug\net8.0\Baskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Baskara\obj\Debug\net8.0\Baskara.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Baskara\obj\Debug\net8.0\Baskara.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Baskara\obj\Debug\net8.0\Baskara.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Baskara\obj\Debug\net8.0\Baskara.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Baskara\obj\Debug\net8.0\Baskara.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Baskara\obj\Debug\net8.0\refint\Baskara.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Baskara\obj\Debug\net8.0\Baskara.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Baskara\obj\Debug\net8.0\Baskara.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Baskara\obj\Debug\net8.0\ref\Baskara.dll

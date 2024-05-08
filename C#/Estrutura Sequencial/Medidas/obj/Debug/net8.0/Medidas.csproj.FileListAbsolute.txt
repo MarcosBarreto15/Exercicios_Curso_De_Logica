@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Medidas\bin\Debug\net8.0\Medidas.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Medidas\bin\Debug\net8.0\Medidas.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Medidas\bin\Debug\net8.0\Medidas.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Medidas\bin\Debug\net8.0\Medidas.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Medidas\bin\Debug\net8.0\Medidas.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Medidas\obj\Debug\net8.0\Medidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Medidas\obj\Debug\net8.0\Medidas.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Medidas\obj\Debug\net8.0\Medidas.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Medidas\obj\Debug\net8.0\Medidas.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Medidas\obj\Debug\net8.0\Medidas.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Medidas\obj\Debug\net8.0\Medidas.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Medidas\obj\Debug\net8.0\refint\Medidas.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Medidas\obj\Debug\net8.0\Medidas.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Medidas\obj\Debug\net8.0\Medidas.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Medidas\obj\Debug\net8.0\ref\Medidas.dll

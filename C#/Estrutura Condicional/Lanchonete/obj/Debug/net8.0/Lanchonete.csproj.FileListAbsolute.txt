@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Lanchonete\bin\Debug\net8.0\Lanchonete.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Lanchonete\bin\Debug\net8.0\Lanchonete.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Lanchonete\bin\Debug\net8.0\Lanchonete.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Lanchonete\bin\Debug\net8.0\Lanchonete.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Lanchonete\bin\Debug\net8.0\Lanchonete.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Lanchonete\obj\Debug\net8.0\Lanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Lanchonete\obj\Debug\net8.0\Lanchonete.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Lanchonete\obj\Debug\net8.0\Lanchonete.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Lanchonete\obj\Debug\net8.0\Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Lanchonete\obj\Debug\net8.0\Lanchonete.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Lanchonete\obj\Debug\net8.0\Lanchonete.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Lanchonete\obj\Debug\net8.0\refint\Lanchonete.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Lanchonete\obj\Debug\net8.0\Lanchonete.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Lanchonete\obj\Debug\net8.0\Lanchonete.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Lanchonete\obj\Debug\net8.0\ref\Lanchonete.dll

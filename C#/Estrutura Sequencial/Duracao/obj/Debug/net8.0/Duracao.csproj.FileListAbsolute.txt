@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Duracao\bin\Debug\net8.0\Duracao.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Duracao\bin\Debug\net8.0\Duracao.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Duracao\bin\Debug\net8.0\Duracao.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Duracao\bin\Debug\net8.0\Duracao.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Duracao\bin\Debug\net8.0\Duracao.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Duracao\obj\Debug\net8.0\Duracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Duracao\obj\Debug\net8.0\Duracao.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Duracao\obj\Debug\net8.0\Duracao.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Duracao\obj\Debug\net8.0\Duracao.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Duracao\obj\Debug\net8.0\Duracao.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Duracao\obj\Debug\net8.0\Duracao.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Duracao\obj\Debug\net8.0\refint\Duracao.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Duracao\obj\Debug\net8.0\Duracao.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Duracao\obj\Debug\net8.0\Duracao.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Sequencial\Duracao\obj\Debug\net8.0\ref\Duracao.dll

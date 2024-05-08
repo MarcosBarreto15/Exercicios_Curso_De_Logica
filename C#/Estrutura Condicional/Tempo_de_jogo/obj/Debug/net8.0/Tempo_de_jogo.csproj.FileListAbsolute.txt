@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Tempo_de_jogo\bin\Debug\net8.0\Tempo_de_jogo.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Tempo_de_jogo\bin\Debug\net8.0\Tempo_de_jogo.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Tempo_de_jogo\bin\Debug\net8.0\Tempo_de_jogo.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Tempo_de_jogo\bin\Debug\net8.0\Tempo_de_jogo.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Tempo_de_jogo\bin\Debug\net8.0\Tempo_de_jogo.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Tempo_de_jogo\obj\Debug\net8.0\Tempo_de_jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Tempo_de_jogo\obj\Debug\net8.0\Tempo_de_jogo.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Tempo_de_jogo\obj\Debug\net8.0\Tempo_de_jogo.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Tempo_de_jogo\obj\Debug\net8.0\Tempo_de_jogo.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Tempo_de_jogo\obj\Debug\net8.0\Tempo_de_jogo.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Tempo_de_jogo\obj\Debug\net8.0\Tempo_de_jogo.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Tempo_de_jogo\obj\Debug\net8.0\refint\Tempo_de_jogo.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Tempo_de_jogo\obj\Debug\net8.0\Tempo_de_jogo.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Tempo_de_jogo\obj\Debug\net8.0\Tempo_de_jogo.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura Condicional\Tempo_de_jogo\obj\Debug\net8.0\ref\Tempo_de_jogo.dll
