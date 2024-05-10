@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Senha_fixa\obj\Debug\net8.0\Senha_fixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Senha_fixa\obj\Debug\net8.0\Senha_fixa.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Senha_fixa\obj\Debug\net8.0\Senha_fixa.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Senha_fixa\obj\Debug\net8.0\Senha_fixa.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Senha_fixa\obj\Debug\net8.0\Senha_fixa.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Senha_fixa\bin\Debug\net8.0\Senha_fixa.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Senha_fixa\bin\Debug\net8.0\Senha_fixa.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Senha_fixa\bin\Debug\net8.0\Senha_fixa.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Senha_fixa\bin\Debug\net8.0\Senha_fixa.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Senha_fixa\bin\Debug\net8.0\Senha_fixa.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Senha_fixa\obj\Debug\net8.0\Senha_fixa.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Senha_fixa\obj\Debug\net8.0\refint\Senha_fixa.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Senha_fixa\obj\Debug\net8.0\Senha_fixa.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Senha_fixa\obj\Debug\net8.0\Senha_fixa.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Senha_fixa\obj\Debug\net8.0\ref\Senha_fixa.dll

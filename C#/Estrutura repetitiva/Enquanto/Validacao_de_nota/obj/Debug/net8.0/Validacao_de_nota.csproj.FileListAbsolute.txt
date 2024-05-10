@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Validacao_de_nota\obj\Debug\net8.0\Validacao_de_nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Validacao_de_nota\obj\Debug\net8.0\Validacao_de_nota.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Validacao_de_nota\obj\Debug\net8.0\Validacao_de_nota.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Validacao_de_nota\obj\Debug\net8.0\Validacao_de_nota.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Validacao_de_nota\obj\Debug\net8.0\Validacao_de_nota.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Validacao_de_nota\bin\Debug\net8.0\Validacao_de_nota.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Validacao_de_nota\bin\Debug\net8.0\Validacao_de_nota.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Validacao_de_nota\bin\Debug\net8.0\Validacao_de_nota.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Validacao_de_nota\bin\Debug\net8.0\Validacao_de_nota.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Validacao_de_nota\bin\Debug\net8.0\Validacao_de_nota.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Validacao_de_nota\obj\Debug\net8.0\Validacao_de_nota.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Validacao_de_nota\obj\Debug\net8.0\refint\Validacao_de_nota.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Validacao_de_nota\obj\Debug\net8.0\Validacao_de_nota.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Validacao_de_nota\obj\Debug\net8.0\Validacao_de_nota.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Validacao_de_nota\obj\Debug\net8.0\ref\Validacao_de_nota.dll

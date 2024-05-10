@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Combustivel\obj\Debug\net8.0\Combustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Combustivel\obj\Debug\net8.0\Combustivel.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Combustivel\obj\Debug\net8.0\Combustivel.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Combustivel\obj\Debug\net8.0\Combustivel.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Combustivel\obj\Debug\net8.0\Combustivel.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Combustivel\bin\Debug\net8.0\Combustivel.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Combustivel\bin\Debug\net8.0\Combustivel.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Combustivel\bin\Debug\net8.0\Combustivel.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Combustivel\bin\Debug\net8.0\Combustivel.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Combustivel\bin\Debug\net8.0\Combustivel.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Combustivel\obj\Debug\net8.0\Combustivel.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Combustivel\obj\Debug\net8.0\refint\Combustivel.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Combustivel\obj\Debug\net8.0\Combustivel.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Combustivel\obj\Debug\net8.0\Combustivel.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Combustivel\obj\Debug\net8.0\ref\Combustivel.dll

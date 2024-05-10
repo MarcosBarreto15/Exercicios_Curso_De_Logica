@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Pares_consecutivos\obj\Debug\net8.0\Pares_consecutivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Pares_consecutivos\obj\Debug\net8.0\Pares_consecutivos.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Pares_consecutivos\obj\Debug\net8.0\Pares_consecutivos.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Pares_consecutivos\obj\Debug\net8.0\Pares_consecutivos.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Pares_consecutivos\obj\Debug\net8.0\Pares_consecutivos.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Pares_consecutivos\bin\Debug\net8.0\Pares_consecutivos.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Pares_consecutivos\bin\Debug\net8.0\Pares_consecutivos.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Pares_consecutivos\bin\Debug\net8.0\Pares_consecutivos.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Pares_consecutivos\bin\Debug\net8.0\Pares_consecutivos.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Pares_consecutivos\bin\Debug\net8.0\Pares_consecutivos.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Pares_consecutivos\obj\Debug\net8.0\Pares_consecutivos.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Pares_consecutivos\obj\Debug\net8.0\refint\Pares_consecutivos.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Pares_consecutivos\obj\Debug\net8.0\Pares_consecutivos.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Pares_consecutivos\obj\Debug\net8.0\Pares_consecutivos.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Enquanto\Pares_consecutivos\obj\Debug\net8.0\ref\Pares_consecutivos.dll
