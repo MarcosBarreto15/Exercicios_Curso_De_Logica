@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Par_impar\obj\Debug\net8.0\Par_impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Par_impar\obj\Debug\net8.0\Par_impar.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Par_impar\obj\Debug\net8.0\Par_impar.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Par_impar\obj\Debug\net8.0\Par_impar.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Par_impar\obj\Debug\net8.0\Par_impar.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Par_impar\bin\Debug\net8.0\Par_impar.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Par_impar\bin\Debug\net8.0\Par_impar.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Par_impar\bin\Debug\net8.0\Par_impar.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Par_impar\bin\Debug\net8.0\Par_impar.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Par_impar\bin\Debug\net8.0\Par_impar.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Par_impar\obj\Debug\net8.0\Par_impar.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Par_impar\obj\Debug\net8.0\refint\Par_impar.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Par_impar\obj\Debug\net8.0\Par_impar.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Par_impar\obj\Debug\net8.0\Par_impar.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Par_impar\obj\Debug\net8.0\ref\Par_impar.dll

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Circulo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Par_impar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b8300d4c4080050bb94a3da1971577448a9cbca")]
-[assembly: System.Reflection.AssemblyProductAttribute("Circulo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Circulo")]
+[assembly: System.Reflection.AssemblyProductAttribute("Par_impar")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Par_impar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

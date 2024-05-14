@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Divisao\bin\Debug\net8.0\Divisao.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Divisao\bin\Debug\net8.0\Divisao.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Divisao\bin\Debug\net8.0\Divisao.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Divisao\bin\Debug\net8.0\Divisao.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Divisao\bin\Debug\net8.0\Divisao.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Divisao\obj\Debug\net8.0\Divisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Divisao\obj\Debug\net8.0\Divisao.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Divisao\obj\Debug\net8.0\Divisao.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Divisao\obj\Debug\net8.0\Divisao.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Divisao\obj\Debug\net8.0\Divisao.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Divisao\obj\Debug\net8.0\Divisao.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Divisao\obj\Debug\net8.0\refint\Divisao.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Divisao\obj\Debug\net8.0\Divisao.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Divisao\obj\Debug\net8.0\Divisao.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Divisao\obj\Debug\net8.0\ref\Divisao.dll

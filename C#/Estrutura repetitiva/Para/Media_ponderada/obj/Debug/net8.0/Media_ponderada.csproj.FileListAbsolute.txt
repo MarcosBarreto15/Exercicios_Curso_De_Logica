@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Media_ponderada\bin\Debug\net8.0\Media_ponderada.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Media_ponderada\bin\Debug\net8.0\Media_ponderada.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Media_ponderada\bin\Debug\net8.0\Media_ponderada.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Media_ponderada\bin\Debug\net8.0\Media_ponderada.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Media_ponderada\bin\Debug\net8.0\Media_ponderada.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Media_ponderada\obj\Debug\net8.0\Media_ponderada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Media_ponderada\obj\Debug\net8.0\Media_ponderada.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Media_ponderada\obj\Debug\net8.0\Media_ponderada.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Media_ponderada\obj\Debug\net8.0\Media_ponderada.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Media_ponderada\obj\Debug\net8.0\Media_ponderada.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Media_ponderada\obj\Debug\net8.0\Media_ponderada.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Media_ponderada\obj\Debug\net8.0\refint\Media_ponderada.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Media_ponderada\obj\Debug\net8.0\Media_ponderada.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Media_ponderada\obj\Debug\net8.0\Media_ponderada.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Estrutura repetitiva\Para\Media_ponderada\obj\Debug\net8.0\ref\Media_ponderada.dll
