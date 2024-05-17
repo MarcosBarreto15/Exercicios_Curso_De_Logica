@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcos\\Documents\\MeuProjetos\\Exercicios_Curso_De_Logica\\C#\\Estrutura Sequencial\\Circulo\\Circulo.csproj",
-      "projectName": "Circulo",
-      "projectPath": "C:\\Users\\Marcos\\Documents\\MeuProjetos\\Exercicios_Curso_De_Logica\\C#\\Estrutura Sequencial\\Circulo\\Circulo.csproj",
+      "projectUniqueName": "C:\\Users\\Marcos\\Documents\\MeuProjetos\\Exercicios_Curso_De_Logica\\C#\\Vetores\\Maior_posicao\\Maior_posicao.csproj",
+      "projectName": "Maior_posicao",
+      "projectPath": "C:\\Users\\Marcos\\Documents\\MeuProjetos\\Exercicios_Curso_De_Logica\\C#\\Vetores\\Maior_posicao\\Maior_posicao.csproj",
       "packagesPath": "C:\\Users\\Marcos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcos\\Documents\\MeuProjetos\\Exercicios_Curso_De_Logica\\C#\\Estrutura Sequencial\\Circulo\\obj\\",
+      "outputPath": "C:\\Users\\Marcos\\Documents\\MeuProjetos\\Exercicios_Curso_De_Logica\\C#\\Vetores\\Maior_posicao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marcos\\AppData\\Roaming\\NuGet\\NuGet.Config"

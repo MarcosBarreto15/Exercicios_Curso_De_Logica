@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcos\\Documents\\MeuProjetos\\Exercicios_Curso_De_Logica\\C#\\Estrutura Sequencial\\Circulo\\Circulo.csproj",
-      "projectName": "Circulo",
-      "projectPath": "C:\\Users\\Marcos\\Documents\\MeuProjetos\\Exercicios_Curso_De_Logica\\C#\\Estrutura Sequencial\\Circulo\\Circulo.csproj",
+      "projectUniqueName": "C:\\Users\\Marcos\\Documents\\MeuProjetos\\Exercicios_Curso_De_Logica\\C#\\Vetores\\Soma_vetores\\Soma_vetores.csproj",
+      "projectName": "Soma_vetores",
+      "projectPath": "C:\\Users\\Marcos\\Documents\\MeuProjetos\\Exercicios_Curso_De_Logica\\C#\\Vetores\\Soma_vetores\\Soma_vetores.csproj",
       "packagesPath": "C:\\Users\\Marcos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcos\\Documents\\MeuProjetos\\Exercicios_Curso_De_Logica\\C#\\Estrutura Sequencial\\Circulo\\obj\\",
+      "outputPath": "C:\\Users\\Marcos\\Documents\\MeuProjetos\\Exercicios_Curso_De_Logica\\C#\\Vetores\\Soma_vetores\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marcos\\AppData\\Roaming\\NuGet\\NuGet.Config"

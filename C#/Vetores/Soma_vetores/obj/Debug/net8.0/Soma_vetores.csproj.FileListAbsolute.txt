@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Soma_vetores\obj\Debug\net8.0\Soma_vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Soma_vetores\obj\Debug\net8.0\Soma_vetores.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Soma_vetores\obj\Debug\net8.0\Soma_vetores.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Soma_vetores\obj\Debug\net8.0\Soma_vetores.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Soma_vetores\obj\Debug\net8.0\Soma_vetores.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Soma_vetores\bin\Debug\net8.0\Soma_vetores.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Soma_vetores\bin\Debug\net8.0\Soma_vetores.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Soma_vetores\bin\Debug\net8.0\Soma_vetores.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Soma_vetores\bin\Debug\net8.0\Soma_vetores.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Soma_vetores\bin\Debug\net8.0\Soma_vetores.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Soma_vetores\obj\Debug\net8.0\Soma_vetores.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Soma_vetores\obj\Debug\net8.0\refint\Soma_vetores.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Soma_vetores\obj\Debug\net8.0\Soma_vetores.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Soma_vetores\obj\Debug\net8.0\Soma_vetores.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Soma_vetores\obj\Debug\net8.0\ref\Soma_vetores.dll

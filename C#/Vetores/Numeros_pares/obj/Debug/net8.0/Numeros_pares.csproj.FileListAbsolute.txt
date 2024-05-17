@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Numeros_pares\obj\Debug\net8.0\Numeros_pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Numeros_pares\obj\Debug\net8.0\Numeros_pares.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Numeros_pares\obj\Debug\net8.0\Numeros_pares.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Numeros_pares\obj\Debug\net8.0\Numeros_pares.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Numeros_pares\obj\Debug\net8.0\Numeros_pares.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Numeros_pares\bin\Debug\net8.0\Numeros_pares.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Numeros_pares\bin\Debug\net8.0\Numeros_pares.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Numeros_pares\bin\Debug\net8.0\Numeros_pares.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Numeros_pares\bin\Debug\net8.0\Numeros_pares.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Numeros_pares\bin\Debug\net8.0\Numeros_pares.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Numeros_pares\obj\Debug\net8.0\Numeros_pares.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Numeros_pares\obj\Debug\net8.0\refint\Numeros_pares.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Numeros_pares\obj\Debug\net8.0\Numeros_pares.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Numeros_pares\obj\Debug\net8.0\Numeros_pares.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Numeros_pares\obj\Debug\net8.0\ref\Numeros_pares.dll

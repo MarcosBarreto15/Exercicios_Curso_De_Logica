@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Maior_posicao\obj\Debug\net8.0\Maior_posicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Maior_posicao\obj\Debug\net8.0\Maior_posicao.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Maior_posicao\obj\Debug\net8.0\Maior_posicao.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Maior_posicao\obj\Debug\net8.0\Maior_posicao.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Maior_posicao\obj\Debug\net8.0\Maior_posicao.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Maior_posicao\bin\Debug\net8.0\Maior_posicao.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Maior_posicao\bin\Debug\net8.0\Maior_posicao.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Maior_posicao\bin\Debug\net8.0\Maior_posicao.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Maior_posicao\bin\Debug\net8.0\Maior_posicao.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Maior_posicao\bin\Debug\net8.0\Maior_posicao.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Maior_posicao\obj\Debug\net8.0\Maior_posicao.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Maior_posicao\obj\Debug\net8.0\refint\Maior_posicao.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Maior_posicao\obj\Debug\net8.0\Maior_posicao.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Maior_posicao\obj\Debug\net8.0\Maior_posicao.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Maior_posicao\obj\Debug\net8.0\ref\Maior_posicao.dll

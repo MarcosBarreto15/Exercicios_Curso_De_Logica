@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Alturas\obj\Debug\net8.0\Alturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Alturas\obj\Debug\net8.0\Alturas.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Alturas\obj\Debug\net8.0\Alturas.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Alturas\obj\Debug\net8.0\Alturas.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Alturas\obj\Debug\net8.0\Alturas.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Alturas\bin\Debug\net8.0\Alturas.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Alturas\bin\Debug\net8.0\Alturas.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Alturas\bin\Debug\net8.0\Alturas.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Alturas\bin\Debug\net8.0\Alturas.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Alturas\bin\Debug\net8.0\Alturas.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Alturas\obj\Debug\net8.0\Alturas.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Alturas\obj\Debug\net8.0\refint\Alturas.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Alturas\obj\Debug\net8.0\Alturas.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Alturas\obj\Debug\net8.0\Alturas.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Alturas\obj\Debug\net8.0\ref\Alturas.dll
