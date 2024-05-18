@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Media_pares\obj\Debug\net8.0\Media_pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Media_pares\obj\Debug\net8.0\Media_pares.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Media_pares\obj\Debug\net8.0\Media_pares.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Media_pares\obj\Debug\net8.0\Media_pares.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Media_pares\obj\Debug\net8.0\Media_pares.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Media_pares\bin\Debug\net8.0\Media_pares.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Media_pares\bin\Debug\net8.0\Media_pares.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Media_pares\bin\Debug\net8.0\Media_pares.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Media_pares\bin\Debug\net8.0\Media_pares.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Media_pares\bin\Debug\net8.0\Media_pares.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Media_pares\obj\Debug\net8.0\Media_pares.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Media_pares\obj\Debug\net8.0\refint\Media_pares.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Media_pares\obj\Debug\net8.0\Media_pares.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Media_pares\obj\Debug\net8.0\Media_pares.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Media_pares\obj\Debug\net8.0\ref\Media_pares.dll

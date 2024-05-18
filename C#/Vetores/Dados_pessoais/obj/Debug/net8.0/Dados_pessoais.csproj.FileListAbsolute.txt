@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Dados_pessoais\bin\Debug\net8.0\Dados_pessoais.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Dados_pessoais\bin\Debug\net8.0\Dados_pessoais.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Dados_pessoais\bin\Debug\net8.0\Dados_pessoais.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Dados_pessoais\bin\Debug\net8.0\Dados_pessoais.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Dados_pessoais\bin\Debug\net8.0\Dados_pessoais.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Dados_pessoais\obj\Debug\net8.0\Dados_pessoais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Dados_pessoais\obj\Debug\net8.0\Dados_pessoais.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Dados_pessoais\obj\Debug\net8.0\Dados_pessoais.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Dados_pessoais\obj\Debug\net8.0\Dados_pessoais.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Dados_pessoais\obj\Debug\net8.0\Dados_pessoais.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Dados_pessoais\obj\Debug\net8.0\Dados_pessoais.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Dados_pessoais\obj\Debug\net8.0\refint\Dados_pessoais.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Dados_pessoais\obj\Debug\net8.0\Dados_pessoais.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Dados_pessoais\obj\Debug\net8.0\Dados_pessoais.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Vetores\Dados_pessoais\obj\Debug\net8.0\ref\Dados_pessoais.dll
