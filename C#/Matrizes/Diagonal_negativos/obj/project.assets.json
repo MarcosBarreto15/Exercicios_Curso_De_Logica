@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcos\\Documents\\MeuProjetos\\Exercicios_Curso_De_Logica\\C#\\Estrutura Condicional\\Aumento\\Aumento.csproj",
-      "projectName": "Aumento",
-      "projectPath": "C:\\Users\\Marcos\\Documents\\MeuProjetos\\Exercicios_Curso_De_Logica\\C#\\Estrutura Condicional\\Aumento\\Aumento.csproj",
+      "projectUniqueName": "C:\\Users\\Marcos\\Documents\\MeuProjetos\\Exercicios_Curso_De_Logica\\C#\\Matrizes\\Diagonal_negativos\\Diagonal_negativos.csproj",
+      "projectName": "Diagonal_negativos",
+      "projectPath": "C:\\Users\\Marcos\\Documents\\MeuProjetos\\Exercicios_Curso_De_Logica\\C#\\Matrizes\\Diagonal_negativos\\Diagonal_negativos.csproj",
       "packagesPath": "C:\\Users\\Marcos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcos\\Documents\\MeuProjetos\\Exercicios_Curso_De_Logica\\C#\\Estrutura Condicional\\Aumento\\obj\\",
+      "outputPath": "C:\\Users\\Marcos\\Documents\\MeuProjetos\\Exercicios_Curso_De_Logica\\C#\\Matrizes\\Diagonal_negativos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marcos\\AppData\\Roaming\\NuGet\\NuGet.Config"

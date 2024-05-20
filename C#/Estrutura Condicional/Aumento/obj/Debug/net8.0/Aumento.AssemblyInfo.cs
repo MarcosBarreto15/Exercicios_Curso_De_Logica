@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aumento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e015c7de6950b58500328fbb624224a547c42eb4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38213877dc2eefddab64d11538acb87276f34f47")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aumento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aumento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
