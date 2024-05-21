@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Diagonal_negativos\obj\Debug\net8.0\Diagonal_negativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Diagonal_negativos\obj\Debug\net8.0\Diagonal_negativos.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Diagonal_negativos\obj\Debug\net8.0\Diagonal_negativos.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Diagonal_negativos\obj\Debug\net8.0\Diagonal_negativos.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Diagonal_negativos\obj\Debug\net8.0\Diagonal_negativos.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Diagonal_negativos\bin\Debug\net8.0\Diagonal_negativos.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Diagonal_negativos\bin\Debug\net8.0\Diagonal_negativos.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Diagonal_negativos\bin\Debug\net8.0\Diagonal_negativos.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Diagonal_negativos\bin\Debug\net8.0\Diagonal_negativos.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Diagonal_negativos\bin\Debug\net8.0\Diagonal_negativos.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Diagonal_negativos\obj\Debug\net8.0\Diagonal_negativos.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Diagonal_negativos\obj\Debug\net8.0\refint\Diagonal_negativos.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Diagonal_negativos\obj\Debug\net8.0\Diagonal_negativos.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Diagonal_negativos\obj\Debug\net8.0\Diagonal_negativos.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Diagonal_negativos\obj\Debug\net8.0\ref\Diagonal_negativos.dll

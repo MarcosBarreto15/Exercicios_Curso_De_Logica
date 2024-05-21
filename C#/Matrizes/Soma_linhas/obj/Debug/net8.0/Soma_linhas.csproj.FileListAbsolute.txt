@@ -1,0 +1,5 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_linhas\obj\Debug\net8.0\Soma_linhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_linhas\obj\Debug\net8.0\Soma_linhas.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_linhas\obj\Debug\net8.0\Soma_linhas.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_linhas\obj\Debug\net8.0\Soma_linhas.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_linhas\obj\Debug\net8.0\Soma_linhas.sourcelink.json
