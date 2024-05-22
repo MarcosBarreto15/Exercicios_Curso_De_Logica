@@ -42,11 +42,6 @@ namespace Negativos_matriz
                     }
                 }
 
-
-
-
-
-
         }
     }
 }
