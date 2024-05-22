@@ -3,7 +3,7 @@ using System.Globalization;
 
 
 
-namespace Soma_linhas
+namespace Negativos_matriz
 {
     class Program
     {
@@ -12,42 +12,40 @@ namespace Soma_linhas
             CultureInfo CI = CultureInfo.InvariantCulture;
 
             int M, N;
-            double somalinha;
 
             System.Console.Write("Qual a quantidade de linhas da matriz? ");
             M = int.Parse(Console.ReadLine());
             System.Console.Write("Qual a quantidade de colunas da matriz? ");
             N = int.Parse(Console.ReadLine());
 
-            double [,] mat = new double[M, N];
-            double[] vet = new double[M];
+                int [,] mat = new int[M, N];
 
                 for (int i = 0; i < M; i++)
                 {
-                    System.Console.WriteLine("Digite os elementos da " + (i + 1) +  "a. linha:" );
                     for (int j = 0; j < N; j++)
                     {
-                        mat[i,j] = double.Parse(Console.ReadLine(), CI);
+                        System.Console.Write("Elemento [" + i + "," + j + "]: ");
+                        mat[i,j] = int.Parse(Console.ReadLine());
+                    }
+                }
+
+                System.Console.WriteLine("VALORES NEGATIVOS: ");
+
+                for (int i = 0; i < M; i++)
+                {
+                    for (int j = 0; j < N; j++)
+                    {
+                        if (mat[i,j] < 0)
+                        {
+                            System.Console.WriteLine(mat[i,j]);
+                        }
                     }
                 }
 
 
-                for (int i = 0; i < M; i++)
-                {
-                    somalinha = 0;
-                    for (int j = 0; j < N; j++)
-                    {
-                        somalinha = somalinha + mat[i,j];
-                    }
-                    vet[i] = somalinha;
-                }
 
-                System.Console.WriteLine("VETOR GERADO: ");
 
-                for (int i = 0; i < M; i++)
-                {
-                    System.Console.WriteLine(vet[i].ToString("F1", CI));
-                }
+
 
         }
     }

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Soma_linhas")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Negativos_matriz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2843684c65f0b074e44dd4852127b6b0f8b7b020")]
-[assembly: System.Reflection.AssemblyProductAttribute("Soma_linhas")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Soma_linhas")]
+[assembly: System.Reflection.AssemblyProductAttribute("Negativos_matriz")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Negativos_matriz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

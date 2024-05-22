@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Negativos_matriz\obj\Debug\net8.0\Negativos_matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Negativos_matriz\obj\Debug\net8.0\Negativos_matriz.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Negativos_matriz\obj\Debug\net8.0\Negativos_matriz.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Negativos_matriz\obj\Debug\net8.0\Negativos_matriz.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Negativos_matriz\obj\Debug\net8.0\Negativos_matriz.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Negativos_matriz\bin\Debug\net8.0\Negativos_matriz.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Negativos_matriz\bin\Debug\net8.0\Negativos_matriz.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Negativos_matriz\bin\Debug\net8.0\Negativos_matriz.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Negativos_matriz\bin\Debug\net8.0\Negativos_matriz.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Negativos_matriz\bin\Debug\net8.0\Negativos_matriz.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Negativos_matriz\obj\Debug\net8.0\Negativos_matriz.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Negativos_matriz\obj\Debug\net8.0\refint\Negativos_matriz.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Negativos_matriz\obj\Debug\net8.0\Negativos_matriz.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Negativos_matriz\obj\Debug\net8.0\Negativos_matriz.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Negativos_matriz\obj\Debug\net8.0\ref\Negativos_matriz.dll

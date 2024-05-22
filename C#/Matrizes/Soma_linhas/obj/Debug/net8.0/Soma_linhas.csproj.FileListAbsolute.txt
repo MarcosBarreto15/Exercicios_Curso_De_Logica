@@ -3,3 +3,13 @@ C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Som
 C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_linhas\obj\Debug\net8.0\Soma_linhas.AssemblyInfo.cs
 C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_linhas\obj\Debug\net8.0\Soma_linhas.csproj.CoreCompileInputs.cache
 C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_linhas\obj\Debug\net8.0\Soma_linhas.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_linhas\bin\Debug\net8.0\Soma_linhas.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_linhas\bin\Debug\net8.0\Soma_linhas.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_linhas\bin\Debug\net8.0\Soma_linhas.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_linhas\bin\Debug\net8.0\Soma_linhas.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_linhas\bin\Debug\net8.0\Soma_linhas.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_linhas\obj\Debug\net8.0\Soma_linhas.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_linhas\obj\Debug\net8.0\refint\Soma_linhas.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_linhas\obj\Debug\net8.0\Soma_linhas.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_linhas\obj\Debug\net8.0\Soma_linhas.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_linhas\obj\Debug\net8.0\ref\Soma_linhas.dll
