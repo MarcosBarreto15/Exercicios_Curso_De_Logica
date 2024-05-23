@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Acima_diagonal\bin\Debug\net8.0\Acima_diagonal.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Acima_diagonal\bin\Debug\net8.0\Acima_diagonal.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Acima_diagonal\bin\Debug\net8.0\Acima_diagonal.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Acima_diagonal\bin\Debug\net8.0\Acima_diagonal.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Acima_diagonal\bin\Debug\net8.0\Acima_diagonal.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Acima_diagonal\obj\Debug\net8.0\Acima_diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Acima_diagonal\obj\Debug\net8.0\Acima_diagonal.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Acima_diagonal\obj\Debug\net8.0\Acima_diagonal.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Acima_diagonal\obj\Debug\net8.0\Acima_diagonal.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Acima_diagonal\obj\Debug\net8.0\Acima_diagonal.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Acima_diagonal\obj\Debug\net8.0\Acima_diagonal.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Acima_diagonal\obj\Debug\net8.0\refint\Acima_diagonal.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Acima_diagonal\obj\Debug\net8.0\Acima_diagonal.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Acima_diagonal\obj\Debug\net8.0\Acima_diagonal.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Acima_diagonal\obj\Debug\net8.0\ref\Acima_diagonal.dll

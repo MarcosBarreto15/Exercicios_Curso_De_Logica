@@ -36,8 +36,7 @@ namespace Soma_vetor
 
                 for (int i = 0; i < N; i++)
                 {
-                    soma = soma + vet[i];
-                    
+                    soma = soma + vet[i]; 
                 }
 
                 System.Console.WriteLine();
@@ -49,6 +48,5 @@ namespace Soma_vetor
 
 
             }
-
         }
     }

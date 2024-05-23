@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Retangulo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e015c7de6950b58500328fbb624224a547c42eb4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b91b07f625286b623b9319b2cc4be0d6e1c05632")]
 [assembly: System.Reflection.AssemblyProductAttribute("Retangulo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Retangulo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -23,10 +23,10 @@ namespace Crescente
                 else {
                     System.Console.WriteLine("CRESCENTE!");
                 }
-                        System.Console.WriteLine("Digite outros dois numeros:");
-            x = int.Parse(Console.ReadLine());
-            y = int.Parse(Console.ReadLine());
-
+                
+                System.Console.WriteLine("Digite outros dois numeros:");
+                x = int.Parse(Console.ReadLine());
+                y = int.Parse(Console.ReadLine());
             }
 
         }

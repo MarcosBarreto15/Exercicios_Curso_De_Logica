@@ -38,6 +38,5 @@ namespace Soma_impares
             System.Console.WriteLine("SOMA DOS IMPARES: " + soma);
 
             }
-
         }
     }

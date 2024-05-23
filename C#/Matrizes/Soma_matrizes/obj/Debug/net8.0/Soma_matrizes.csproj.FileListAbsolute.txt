@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_matrizes\bin\Debug\net8.0\Soma_matrizes.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_matrizes\bin\Debug\net8.0\Soma_matrizes.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_matrizes\bin\Debug\net8.0\Soma_matrizes.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_matrizes\bin\Debug\net8.0\Soma_matrizes.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_matrizes\bin\Debug\net8.0\Soma_matrizes.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_matrizes\obj\Debug\net8.0\Soma_matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_matrizes\obj\Debug\net8.0\Soma_matrizes.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_matrizes\obj\Debug\net8.0\Soma_matrizes.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_matrizes\obj\Debug\net8.0\Soma_matrizes.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_matrizes\obj\Debug\net8.0\Soma_matrizes.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_matrizes\obj\Debug\net8.0\Soma_matrizes.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_matrizes\obj\Debug\net8.0\refint\Soma_matrizes.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_matrizes\obj\Debug\net8.0\Soma_matrizes.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_matrizes\obj\Debug\net8.0\Soma_matrizes.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Soma_matrizes\obj\Debug\net8.0\ref\Soma_matrizes.dll

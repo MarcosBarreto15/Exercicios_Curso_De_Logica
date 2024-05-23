@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Cada_linha\obj\Debug\net8.0\Cada_linha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Cada_linha\obj\Debug\net8.0\Cada_linha.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Cada_linha\obj\Debug\net8.0\Cada_linha.AssemblyInfo.cs
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Cada_linha\obj\Debug\net8.0\Cada_linha.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Cada_linha\obj\Debug\net8.0\Cada_linha.sourcelink.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Cada_linha\bin\Debug\net8.0\Cada_linha.exe
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Cada_linha\bin\Debug\net8.0\Cada_linha.deps.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Cada_linha\bin\Debug\net8.0\Cada_linha.runtimeconfig.json
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Cada_linha\bin\Debug\net8.0\Cada_linha.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Cada_linha\bin\Debug\net8.0\Cada_linha.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Cada_linha\obj\Debug\net8.0\Cada_linha.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Cada_linha\obj\Debug\net8.0\refint\Cada_linha.dll
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Cada_linha\obj\Debug\net8.0\Cada_linha.pdb
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Cada_linha\obj\Debug\net8.0\Cada_linha.genruntimeconfig.cache
+C:\Users\Marcos\Documents\MeuProjetos\Exercicios_Curso_De_Logica\C#\Matrizes\Cada_linha\obj\Debug\net8.0\ref\Cada_linha.dll
