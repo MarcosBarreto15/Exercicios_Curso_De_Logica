@@ -1,16 +1,10 @@
-idade: int
-salario: float
-altura: float
-nome: str
+x = int(input("Digite x: "))
+y = 2 * x
+z = int(input("Digite z: "))
+print(f"Valor de z = {z}")
+w = 5 + z
+print(f"Valor de w = {w}")
 
-idade = 20
-salario = 5800.5
-altura = 1.63
-genero = "F"
-nome = "Maria Silva"
 
-print(f"IDADE = {idade}")
-print(f"SALARIO = {salario:.2f}")
-print(f"ALTURA = {altura:.2f}")
-print(f"GENERO = {genero}")
-print(f"NOME = {nome}")
+
+
