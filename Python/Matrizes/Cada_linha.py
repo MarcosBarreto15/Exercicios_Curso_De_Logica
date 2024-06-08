@@ -8,17 +8,18 @@ for i in range(0, M):
 
 print("MAIOR ELEMENTO DE CADA LINHA:")
 
-
+maiorLinha = [0 for x in range(M)]
 
 for i in range(0, M):
     maior = 0
-    for J in range(0, M):
+    for j in range(0, M):
         if mat[i][j] > maior:
             maior = mat[i][j]
-    maiorLinha = maior
+
+    maiorLinha[i] = maior
     
 for i in range(0, M):
-    print(maiorLinha)
+    print(maiorLinha[i])
 
 
 

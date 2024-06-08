@@ -14,4 +14,4 @@ idade2 = int(input("Idade: "))
 soma = idade1 + idade2
 media = soma/2
 
-print(f"A idade media de {nome1} e {nome2} é de {media} anos ")
+print(f"A idade media de {nome1} e {nome2} é de {media:.1f} anos ")
